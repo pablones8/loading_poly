@@ -1,6 +1,6 @@
 # Quantum amplitude encoding of polynomial functions using MPS
 
-This repository explores the application of Matrix Product States (MPS) for amplitude encoding of various polynomial functions. The study includes an analysis of fidelity variations across different bond dimensions for different polynomial families. Additionally, it focuses on the fundamental case of the linear function, which plays a crucial role in our paper.
+This repository explores the application of Matrix Product States (MPS) for amplitude encoding of various polynomial functions. The study includes an analysis of fidelity variations across different bond dimensions for different polynomial families. Additionally, it focuses on the fundamental case of the linear function, which plays a crucial role in our paper (https://arxiv.org/abs/2307.10917).
 
 ### Approach
 
